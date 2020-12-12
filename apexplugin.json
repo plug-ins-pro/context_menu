@@ -1,5 +1,5 @@
 {
-  "name" : "Context Menu",
+  "name" : "UC Context Menu",
   "version" : "20.1",
   "description" : "A dynamic action plug-in which implements an APEX popup menu based on a defined APEX list. Can be attached to any HTML element and renders entries according to the authorization scheme result. Menu entries can be extended by overriding behavior, dynamically adding submenus, and by adding new entries.",
   "keywords" : ["Context Menu","Button"],
