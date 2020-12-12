@@ -8,8 +8,8 @@
     "url" : "https://github.com/plug-ins-pro/context_menu/issues",
     "email" : "support@plug-ins-pro.com"
   },
-  "license" : "MIT",
-  "commercial" : "No",
+  "license" : "Commercial",
+  "commercial" : "Yes",
   "commercially_supported":"Yes",  
   "author" : {
     "name" : "United Codes",
