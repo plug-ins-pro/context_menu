@@ -1,35 +1,36 @@
 {
-  "name" : "UC Context Menu",
-  "version" : "20.1",
-  "description" : "A dynamic action plug-in which implements an APEX popup menu based on a defined APEX list. Can be attached to any HTML element and renders entries according to the authorization scheme result. Menu entries can be extended by overriding behavior, dynamically adding submenus, and by adding new entries.",
-  "keywords" : ["Context Menu","Button"],
-  "homepage" : "https://www.plug-ins-pro.com/",
-  "bugs" : {
-    "url" : "https://github.com/plug-ins-pro/context_menu/issues",
-    "email" : "support@plug-ins-pro.com"
-  },
-  "license" : "Commercial",
-  "commercial" : "Yes",
-  "commercially_supported":"Yes",  
-  "author" : {
-    "name" : "United Codes",
-    "email" : "info@plug-ins-pro.com",
-    "url" : "https://www.united-codes.com/"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/plug-ins-pro/context_menu"
-  },
- "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
-    "apex" : {
-      "versions" : ["19.2.0", "20.1.0", "20.2.0"],
-      "plugin" : {
-        "internalName" : "UNITEDCODES_CONTEXT_MENU",
-        "type" : "dynamic action",
-        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/context_menu/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/593/files/static/v13/promo.gif"
+    "name" : "Context Menu",
+    "version" : "20.1",
+    "description" : "A dynamic action plug-in which implements an APEX popup menu based on a defined APEX list. Can be attached to any HTML element and renders entries according to the authorization scheme result. Menu entries can be extended by overriding behavior, dynamically adding submenus, and by adding new entries.",
+    "keywords" : ["Context Menu","Button"],
+    "homepage" : "https://www.plug-ins-pro.com/",
+    "bugs" : {
+      "url" : "https://github.com/plug-ins-pro/context_menu/issues",
+      "email" : "support@plug-ins-pro.com"
+    },
+    "license" : "Commercial",
+    "commercial" : "Yes",
+    "commercially_supported":"Yes",  
+    "author" : {
+      "name" : "United Codes",
+      "email" : "info@plug-ins-pro.com",
+      "url" : "https://www.united-codes.com/"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/plug-ins-pro/context_menu"
+    },
+   "oracle" : {
+      "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
+      "apex" : {
+        "versions" : ["19.2.0", "20.1.0", "20.2.0"],
+        "plugin" : {
+          "internalName" : "UNITEDCODES_CONTEXT_MENU",
+          "type" : "dynamic action",
+          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/context_menu/home",
+          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/593/files/static/v13/promo.gif"
+        }
       }
     }
   }
-}
+  
